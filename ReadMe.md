@@ -1,6 +1,6 @@
 
-COMPILE
-javac House.java
+# COMPILE
+- javac House.java
 
-RUN
-java House
+# RUN
+- java House
